@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **enggoharsh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u7x18VXaWBJV7nyReRRjhtuvaJe3FlIR/view?usp=sharing](https://drive.google.com/file/d/1u7x18VXaWBJV7nyReRRjhtuvaJe3FlIR/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1u7x18VXaWBJV7nyReRRjhtuvaJe3FlIR/view?usp=sharing)
 
 - ⚡ Fun fact **BlackBox is orange in colour😁**
 
