@@ -19,8 +19,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1u7x18VXaWBJV7nyReRRjhtuvaJe3FlIR/view?usp=sharing)
 
-- ⚡ Fun fact **BlackBox is orange in colour😁**
-
+- ⚡ Fun fact **BlackBoxes are orange in colour😁**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/enggoharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enggoharsh" height="30" width="40" /></a>
