@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/enggoharsh](https://github.com/enggoharsh)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/enggoharsh)
 
 - 💬 Ask me about **cnn,tensorflow,keras,numpy, embedded C, microcontrollers**
 
