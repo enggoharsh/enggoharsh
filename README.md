@@ -76,10 +76,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=enggoharsh&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enggoharsh&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enggoharsh&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enggoharsh&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=enggoharsh" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enggoharsh&theme=tokyonight" />
 </p>
