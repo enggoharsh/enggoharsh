@@ -69,7 +69,7 @@
 ---
 
 ## 🌐 Connect With Me
-[LinkedIn](YOUR_LINKEDIN_LINK) • [GitHub](https://github.com/enggoharsh)
+[LinkedIn](https://www.linkedin.com/in/harshrajeshmishra/) • [GitHub](https://github.com/enggoharsh)
 
 ---
 
