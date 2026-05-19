@@ -9,7 +9,7 @@
 - 🌱 Learning **VLSI Design, Computer Architecture, RTL Design, and AI/ML**
 - 💡 Interested in **Processor Design, Embedded Systems, Signal Processing, and Hardware Acceleration**
 - 📫 Reach me: **enggoharsh@gmail.com**
-- 📄 Resume: [View Resume](YOUR_GITHUB_PDF_LINK)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1KG5taUq-4Ql4sHklnNNdprz-dyzGmBNU/view?usp=sharing)
 
 ---
 
