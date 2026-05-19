@@ -15,7 +15,6 @@
 
 ## 🏆 Achievements
 - ✅ Qualified **GATE (ECE)**
-- 🎓 Awarded **University Scholarship twice** for ranking among the **Top 7 students**
 - 📈 Consistent academic improvement through engineering
 - 🔬 Research/project experience in **Radar Signal Processing + Deep Learning**
 
