@@ -131,7 +131,7 @@ Deep learning pipeline for classifying human activities using FMCW radar signals
 
 <div align="center">
 
-|  GATE Qualified | Academic Growth |  Research |
+| 🎯 GATE Qualified | 📈 Academic Growth | 🔬 Research |
 |:---:|:---:|:---:|
 | Graduate Aptitude Test in Engineering — ECE | Consistent upward trajectory through engineering | Radar Signal Processing + Deep Learning on real-world sensor data |
 
@@ -146,7 +146,7 @@ Deep learning pipeline for classifying human activities using FMCW radar signals
 <table><tr><td>
 <img src="https://github-stats-alpha.vercel.app/api?username=enggoharsh&cc=0d1117&tc=38bdf8&ic=818cf8&bc=0d1117" />
 </td><td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enggoharsh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enggoharsh&theme=tokyonight" />
 </td></tr></table>
 
 <br/>
