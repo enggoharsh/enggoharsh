@@ -143,12 +143,15 @@ Deep learning pipeline for classifying human activities using FMCW radar signals
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=enggoharsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&cache_seconds=1800" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enggoharsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&cache_seconds=1800" />
+<table><tr><td>
+<img src="https://github-stats-alpha.vercel.app/api?username=enggoharsh&cc=0d1117&tc=38bdf8&ic=818cf8&bc=0d1117" />
+</td><td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enggoharsh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" />
+</td></tr></table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=enggoharsh&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e293b&ring=38bdf8&fire=fb923c&currStreakLabel=38bdf8" />
+<img src="https://streak-stats.demolab.com/?user=enggoharsh&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=1e293b&ring=38bdf8&fire=fb923c&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569" />
 
 <br/>
 
